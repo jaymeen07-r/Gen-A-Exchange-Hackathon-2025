@@ -1,4 +1,4 @@
-# Quantum-Core
+# INFOLENSE
 
 > **AI-Powered Misinformation Detection & Counter Platform**
 > 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Quantum-Core is an advanced AI/ML-powered platform designed to combat the rapid spread of misinformation across social media, messaging platforms, news websites, and other digital channels. In an era where false information spreads faster than truth, Quantum-Core provides organizations, policymakers, and individual users with intelligent tools to identify, verify, and counter misinformation in real-time.
+INFOLENSE is an advanced AI/ML-powered platform designed to combat the rapid spread of misinformation across social media, messaging platforms, news websites, and other digital channels. In an era where false information spreads faster than truth, INFOLENSE provides organizations, policymakers, and individual users with intelligent tools to identify, verify, and counter misinformation in real-time.
 
 ### The Problem
 
@@ -164,8 +164,8 @@ User Input/System Scan
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/jaymeen07-r/Quantum-Core.git
-cd Quantum-Core
+git clone https://github.com/jaymeen07-r/INFOLENSE.git
+cd INFOLENSE
 
 # Setup environment
 cp .env.example .env
@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ### 🏆 Built for Gen AI Exchange Hackathon 2025
 
-**Quantum-Core** was developed as part of the **Gen AI Exchange Hackathon 2025** organized by **Google**, an initiative dedicated to creating innovative AI-powered solutions that address real-world challenges and drive technological advancement.
+**INFOLENSE** was developed as part of the **Gen AI Exchange Hackathon 2025** organized by **Google**, an initiative dedicated to creating innovative AI-powered solutions that address real-world challenges and drive technological advancement.
 
 ### Project Team
 
