@@ -252,14 +252,36 @@ We welcome contributions! Please:
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## Team & Contact
+## 🙏 Acknowledgments
 
-**Developer**: [Jaymeen07-r](https://github.com/jaymeen07-r)  
-**Project**: Quantum-Core  
-**Last Updated**: January 2026
+### 🏆 Built for Gen AI Exchange Hackathon 2025
+
+**Quantum-Core** was developed as part of the **Gen AI Exchange Hackathon 2025** organized by **Google**, an initiative dedicated to creating innovative AI-powered solutions that address real-world challenges and drive technological advancement.
+
+### Project Team
+
+**Team Leader** - JAYMEEN N. VAGHELA - Lead Architect & AI/ML Specialist - [Get in Touch](https://github.com/jaymeen07-r)  
+**Project:** Quantum-Core - AI-Powered Misinformation Detection & Counter Platform  
+**Hackathon:** Gen AI Exchange Hackathon 2025 (Google)  
+**Hackathon Edition:** January 2026
+
+### Special Thanks
+
+This project is built on cutting-edge AI/ML research, human-centered design principles, and real-world usability testing. We extend special thanks to:
+
+- **Google** for organizing the Gen AI Exchange Hackathon and providing resources for innovation
+- **Hackathon Mentors & Judges** for invaluable guidance, feedback, and constructive criticism
+- **Open Source Community** for providing foundational libraries and frameworks (BERT, RoBERTa, etc.)
+- **Fact-Checking Organizations** (Snopes, Google Fact Check, ClaimBuster) for partnership and data access
+- **Content Moderation Experts** for behavioral research and design feedback
+- **Beta Testers & Users** who participated in real-world testing and provided invaluable feedback
+- **AI Research Community** for continuous innovation in NLP, Computer Vision, and Deepfake Detection
+
+This project represents a commitment to building AI technology that is trustworthy, transparent, and genuinely useful in combating misinformation at scale.
 
 ---
 
-**Get Involved**: ⭐ Star this repo | 🐛 Report issues | 💡 Suggest features
-
-For more information, visit our [GitHub repository](https://github.com/jaymeen07-r/Quantum-Core)
+**Last Updated:** January 2026  
+**Project Status:** Active Development  
+**Version:** 1.0  
+**Hackathon Edition:** Gen AI Exchange Hackathon 2025
