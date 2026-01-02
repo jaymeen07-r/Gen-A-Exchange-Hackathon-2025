@@ -260,10 +260,10 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ### Project Team
 
-**Team Leader** - JAYMEEN N. VAGHELA - Lead Architect & AI/ML Specialist - [Get in Touch](https://github.com/jaymeen07-r)  
-**Project:** Quantum-Core - AI-Powered Misinformation Detection & Counter Platform  
-**Hackathon:** Gen AI Exchange Hackathon 2025 (Google)  
-**Hackathon Edition:** January 2026
+- **Team Leader** - JAYMEEN N. VAGHELA - Lead Architect & AI/ML Specialist - [Get in Touch](https://github.com/jaymeen07-r)  
+- **Team Leader** - RAJ A. SANGANI - Lead Research Analyst - [Get in Touch](https://github.com/rajsangani2000-byte)  
+- **Guide** - PROF. AMIT P. MODI 
+- **Hackathon:** Gen AI Exchange Hackathon 2025 (Google)  
 
 ### Special Thanks
 
@@ -280,8 +280,6 @@ This project is built on cutting-edge AI/ML research, human-centered design prin
 This project represents a commitment to building AI technology that is trustworthy, transparent, and genuinely useful in combating misinformation at scale.
 
 ---
-
-**Last Updated:** January 2026  
+  
 **Project Status:** Active Development  
-**Version:** 1.0  
 **Hackathon Edition:** Gen AI Exchange Hackathon 2025
